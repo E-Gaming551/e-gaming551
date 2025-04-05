@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="./styles.css" />
 
-## E-gaming551
+## Victor Ezehi
 
   <p>An Amazing web designer 👨🏽‍💻 that likes to code</p>
         <h5>Coding since 2024 and Got to be my hobby</h5>
